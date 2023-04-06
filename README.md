@@ -5,6 +5,7 @@
 | --- | ----------- |
 | SQL | [DONE](./sql.md) |
 | Practice in the Terminal | [Terminal](./Terminal.md)
+| The Growth Mindset | [Mindset](./TheGrowthMindset.md)
 | CLASS01 READING | [Reading](./Class01_Read.md) |
 | CLASS02 READING | [Reading](./Class02_Read.md) |
 
