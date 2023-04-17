@@ -13,4 +13,5 @@
 | CLASS03 READING | [Reading](./Class03_Read.md) |
 | CLASS04 READING | [Reading](./Class04_Read.md) |
 | CLASS05 READING | [Reading](./Class05_Read.md) |
+| CLASS06 READING | [Reading](./Class06_Read.md) |
 
