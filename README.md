@@ -15,4 +15,5 @@
 | CLASS05 READING | [Reading](./Class05_Read.md) |
 | CLASS06 READING | [Reading](./Class06_Read.md) |
 | CLASS07 READING | [Reading](./Class07_Read.md) |
+| CLASS08 READING | [Reading](./Class08_Read.md) |
 
