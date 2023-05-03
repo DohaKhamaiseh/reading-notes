@@ -17,6 +17,9 @@
 | CLASS07 READING | [Reading](./Class07_Read.md) |
 | CLASS08 READING | [Reading](./Class08_Read.md) |
 | CLASS09 READING | [Reading](./Class09_Read.md) |
+| CLASS10 READING | [Reading](./Class10_Read.md) |
+
+
 
 
 
