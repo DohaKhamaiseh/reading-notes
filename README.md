@@ -19,6 +19,7 @@
 | CLASS09 READING | [Reading](./Class09_Read.md) |
 | CLASS10 READING | [Reading](./Class10_Read.md) |
 | CLASS11 READING | [Reading](./Class11_Read.md) |
+| CLASS12 READING | [Reading](./Class12_Read.md) |
 
 
 
