@@ -20,6 +20,7 @@
 | CLASS10 READING | [Reading](./Class10_Read.md) |
 | CLASS11 READING | [Reading](./Class11_Read.md) |
 | CLASS12 READING | [Reading](./Class12_Read.md) |
+| CLASS13 READING | [Reading](./Class13_Read.md) |
 
 
 
