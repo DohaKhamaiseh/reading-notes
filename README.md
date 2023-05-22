@@ -24,6 +24,7 @@
 | CLASS14 READING | [Reading](./Class14_Read.md) |
 | CLASS15 READING | [Reading](./Class15_Read.md) |
 | CLASS16 READING | [Reading](./Class16_Read.md) |
+| CLASS17 READING | [Reading](./Class16_Read.md) |
 
 
 
