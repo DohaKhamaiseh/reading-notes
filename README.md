@@ -26,6 +26,7 @@
 | CLASS16 READING | [Reading](./Class16_Read.md) |
 | CLASS17 READING | [Reading](./Class17_Read.md) |
 | CLASS26 READING | [Reading](./Class26_Read.md) |
+| CLASS27 READING | [Reading](./Class27_Read.md) |
 
 
 
