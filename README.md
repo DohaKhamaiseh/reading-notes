@@ -28,6 +28,7 @@
 | CLASS26 READING | [Reading](./Class26_Read.md) |
 | CLASS27 READING | [Reading](./Class27_Read.md) |
 | CLASS28 READING | [Reading](./Class28_Read.md) |
+| CLASS29 READING | [Reading](./Class29_Read.md) |
 
 
 
