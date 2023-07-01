@@ -30,6 +30,7 @@
 | CLASS28 READING | [Reading](./Class28_Read.md) |
 | CLASS29 READING | [Reading](./Class29_Read.md) |
 | CLASS30 READING | [Reading](./Class30_Read.md) |
+| CLASS31 READING | [Reading](./Class31_Read.md) |
 
 
 
