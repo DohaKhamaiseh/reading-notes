@@ -2,8 +2,6 @@
 
 ### Components :
 
-
-
 1. **Docker Image:** A Docker image is a lightweight, standalone, and executable software package that includes everything needed to run an application, including the code, runtime, libraries, tools, and system dependencies. Images are built based on a Dockerfile, which defines the instructions for creating the image.
 
 2. **Docker Container:** A Docker container is an instance of a Docker image. It is a runtime environment that encapsulates the application and its dependencies in an isolated and portable manner. Containers are isolated from each other and from the host system, providing a consistent and predictable runtime environment. 

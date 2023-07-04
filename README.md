@@ -31,6 +31,7 @@
 | CLASS29 READING | [Reading](./Class29_Read.md) |
 | CLASS30 READING | [Reading](./Class30_Read.md) |
 | CLASS31 READING | [Reading](./Class31_Read.md) |
+| CLASS32 READING | [Reading](./Class32_Read.md) |
 
 
 
