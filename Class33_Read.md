@@ -1,6 +1,5 @@
 ## What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?
 
-<br>
 
 ### Purpose:
 
@@ -10,6 +9,7 @@
 The output(header, payload, signature) is three Base64-URL strings separated by dots that can be easily passed in HTML and HTTP environments
 
 this is the encoded output:
+
 ![Alt text](image.png)
 
 to decode it you can use ```jwt.io Debugger```
