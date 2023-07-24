@@ -38,6 +38,7 @@
 | CLASS36 READING | [Reading](./Class36_Read.md) |
 | CLASS37 READING | [Reading](./Class37_Read.md) |
 | CLASS38 READING | [Reading](./Class38_Read.md) |
+| CLASS39 READING | [Reading](./Class39_Read.md) |
 
 
 
